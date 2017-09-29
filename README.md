@@ -3,7 +3,7 @@ Infos sur la GameJam 2017 de Granville Digital
 
 
 # ACHIEVEMENTS
-     l’idée étant de donner par la contrainte des ouvertures vers pleins de chouettes idées : 
+L’idée étant de donner par la contrainte des ouvertures vers pleins de chouettes idées : 
 
 - votre jeu sera jouable qu’à une seule main maximum
 - utilise au maximum 16 couleurs différentes, y compris la lumière et l'ombrage
